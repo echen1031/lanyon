@@ -6,7 +6,7 @@ title: Hello World!
 
 In this blog, I will be posting some of my "Ah ha" moments while working on various freelance projects as a RoR developer.  Thank you for stopping by.  Since this is the first post, I'll tell you a little bit about myself. 
 
-I graduated from the University of Georgia with a bachelor degree of Environmental Health. Decided to have a career change since the environment thing is not really working out for me. Hello Ruby on Rails.  Thanks to the people at [Bibles for America](https://www.bfa.org), I landed a junior developer job with little to no experience (talk about learning on the job)! I have been with them since 2014 and on going.
+I graduated from the University of Georgia with a bachelor degree of Environmental Health. Decided to have a career change since the environmental thing is not really working out for me. Hello Ruby on Rails.  Thanks to the people at [Bibles for America](https://www.bfa.org), I landed a junior developer job with little to no experience (talk about learning on the job!). I have been with them since 2014.
 
 ### A few of the projects that I worked and collaborated on:
 
