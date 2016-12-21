@@ -1,7 +1,3 @@
----
-layout: 
-title: Example content
----
 
 
 <div class="message">
